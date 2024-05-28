@@ -1,5 +1,14 @@
-# Howdy👋 
-## Welcome to my GitHub profile!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=939&height=120&section=header"/>
+
+<div align="center">
+  <a href="https://giphy.com/gifs/customer-service-help-desk-call-center-lXiRzPb8C5JTJcfPq">
+    <img src="https://media.giphy.com/media/lXiRzPb8C5JTJcfPq/giphy.gif" width="480" height="264">
+  </a>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&random=false&width=435&lines=Howdy!+Let's+collaborate;and+shape+a+better+future!)](https://git.io/typing-svg)
+
+### Welcome to my GitHub profile!
 
 - 🔭 **I’m currently seeking opportunities in front-end development**
 - 🌱 **I’m currently learning React Native**
@@ -17,7 +26,7 @@
 
 ##
 
-<table>
+<table align="center">
   <tr>
     <td align="left" width="50%">
       <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeggerdemier&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
@@ -27,3 +36,15 @@
     </td>
   </tr>
 </table>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaeggerdemier&bg_color=1a191a&color=3f53ee&line=496dfd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center"> 
+  <a href="https://www.instagram.com/anademier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "anaeggerdemier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/ana-caroline-egger-demier-aa26b8231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=939&height=120&section=footer"/>
