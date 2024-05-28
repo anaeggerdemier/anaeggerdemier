@@ -41,14 +41,14 @@
 ##
 
 <table align="center">
-  <tr>
-    <td align="left" width="50%">
-      <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeggerdemier&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ff91a4&bg_color=0d1117" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=anaeggerdemier&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-    </td>
-  </tr>
+<tr>
+  <td align="left" width="50%">
+    <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeggerdemier&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ff91a4&bg_color=0d1117" />
+  </td>
+  <td align="right" width="50%">
+    <img src="https://github-profile-trophy.vercel.app/?username=anaeggerdemier&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  </td>
+</tr>
 </table>
 
 ##
@@ -67,8 +67,8 @@
 
 <div align="center"> 
   <a href="https://www.instagram.com/anademier" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram" target="_blank"></a>
-  <a href="www.linkedin.com/in/ana-caroline-egger-demier-aa26b8231" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ana-caroline-egger-demier-aa26b8231" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
