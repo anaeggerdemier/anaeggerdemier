@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=3f53ee&random=false&width=435&lines=Howdy!+Let's+collaborate;and+shape+a+better+future!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=8A2BE2&random=false&width=435&lines=Howdy!+Let's+collaborate;and+shape+a+better+future!">
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 ### My GitHub Activity:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaeggerdemier&bg_color=1a191a&color=3f53ee&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaeggerdemier&bg_color=1a191a&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
