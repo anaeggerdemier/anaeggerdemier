@@ -65,9 +65,7 @@
 ##
 
 <div align="center">
-  <img width="30%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlqZzQ3OHBmdWE4b3BqZ2R2bDRiZzAycGZyeDBseHAwNTRkZ3NqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8npQFu2jVSq8EGD1n/giphy.webp">
-  <br>
-  <img width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4yc2h1Yng4OTg5ejEwZWxkZWxmcWE0Y3VhbzF2ZnhldDZsdWNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DKyjRV7y5AcOswAlBr/giphy.webp">
+  <img width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdqNnN3cGE4ejN2b2dmYms1Z29kcGg2dWY3OHR2eDRmNzhtYXoyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Tl7sK6IaEQdVcCVD7i/giphy.webp">
 </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
