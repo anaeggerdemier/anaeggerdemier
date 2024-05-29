@@ -61,14 +61,15 @@
 
 ### Social Media:
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4yc2h1Yng4OTg5ejEwZWxkZWxmcWE0Y3VhbzF2ZnhldDZsdWNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DKyjRV7y5AcOswAlBr/giphy.webp">
-</p>
-
 <div align="center"> 
   <a href="https://www.instagram.com/anademier" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-caroline-egger-demier-aa26b8231" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" target="_blank"></a>
 </div>
+
+  <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG4yc2h1Yng4OTg5ejEwZWxkZWxmcWE0Y3VhbzF2ZnhldDZsdWNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DKyjRV7y5AcOswAlBr/giphy.webp">
+  </p>
+
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
