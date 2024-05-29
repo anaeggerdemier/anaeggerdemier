@@ -26,12 +26,14 @@
 ### Technologies I Use:
 
 <div>
-   <img align="center" alt="Ana-Js" height="30" width="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZiMWM1azBhamMyYzJoMG52Y3B3cjJvYjd5NXJxbmcxNzI2cnZvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif">
-   <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Ana-React" height="30" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh0Y3g5OW81M2J0bnF2OWJ6bHRwdTV0MWg5NTFuZGY3Z2gzNzExYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.webp">
-   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9wd2tocGUyaTM2d3Vwd296eWR3enZudmc3OXpjYWlzZWYycWRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.webp">
-   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpvMndoN2NtdTd6OXdyNmZhMXh0Z3Z3dGh1dWdvanc3bGxuMzNsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.webp">
-   <img align="center" alt="Ana-Python" height="30" width="40" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
+   <img align="center" alt="Ana-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Ana-Ts" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Ana-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+   <img align="center" alt="Ana-HTML"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+   <img align="center" alt="Ana-CSS"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+   <img align="center" alt="Ana-Node"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Ana-Angular"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+   <img align="center" alt="Ana-Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
 ##
