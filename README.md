@@ -14,18 +14,14 @@
 
 <br>
 
-### About me:
-- 🔭 **I’m currently seeking opportunities in front-end development**
+## About me:
+- 🔭 **I'm Ana, eager to dive into front-end development opportunities. Let's create something remarkable!?**
 - 🌱 **I’m currently learning React Native**
 - 📫 **How to reach me: anaeggerdemier@outlook.com**
 - 😄 **Pronouns:** *she/her*
 - 👩🏻‍💻 **IT Systems Analysis and Development Student**
 
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxMGxrMWlmZDg5azc5bjl0ejJvZ3c3N2R2ZTYyZ2N4eTRoMmwxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1AePrqduW3ji4t4uVp/giphy.webp">
-</p>
-
+##
 
 ### Technologies I Use:
 
