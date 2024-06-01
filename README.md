@@ -15,11 +15,11 @@
 <br>
 
 ## About me:
-- 🔭 **I'm Ana, eager to dive into front-end development opportunities. Let's create something remarkable!?**
-- 🌱 **I’m currently learning React Native**
-- 📫 **How to reach me: anaeggerdemier@outlook.com**
-- 😄 **Pronouns:** *she/her*
-- 👩🏻‍💻 **IT Systems Analysis and Development Student**
+-  **I'm Ana, eager to dive into front-end development opportunities. Let's create something remarkable!?**
+-  **I’m currently learning React Native**
+-  **How to reach me: anaeggerdemier@outlook.com**
+-  **Pronouns:** *she/her*
+-  **IT Systems Analysis and Development Student**
 
 ##
 
