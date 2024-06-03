@@ -61,7 +61,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://www.instagram.com/anademier" target="_blank" style="margin: 0; text-decoration: none;"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram" height="50"></a>
-  <a href="https://www.linkedin.com/in/ana-caroline-egger-demier-aa26b8231" target="_blank" style="margin: 0; text-decoration: none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" height="50"></a>
+  <a href="www.linkedin.com/in/ana-caroline-de-a-egger-demier-aa26b8231" target="_blank" style="margin: 0; text-decoration: none;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" height="50"></a>
 </div>
 
 ##
