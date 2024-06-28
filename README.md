@@ -1,15 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=8A2BE2&random=false&width=435&lines=Howdy!+Let's+collaborate;and+shape+a+better+future!">
-  </a>
 </div>
 
 <div align="center">
-  <a href="https://giphy.com/gifs/customer-service-help-desk-call-center-lXiRzPb8C5JTJcfPq">
     <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif?raw=true" width="50%">
-  </a>
 </div>
 
 <br>
