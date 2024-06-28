@@ -10,7 +10,7 @@
 
 <br>
 
-## About me
+## About Me
 - **I'm Ana, eager to dive into front-end development opportunities.**
 - **How to reach me: anaeggerdemier@outlook.com**
 - **Pronouns:** *she/her*
