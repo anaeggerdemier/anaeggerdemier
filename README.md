@@ -44,17 +44,18 @@
 
 ## My GitHub Activity
 
-[![Ana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaeggerdemier&bg_color=1a191a&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anaeggerdemier&theme=shadow-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
 
 ## Social Media
 
 <p align="center">
-  <a href="https://www.instagram.com/anademier" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram" height="50"></a>
-  <a href="https://www.linkedin.com/in/ana-caroline-de-a-egger-demier-aa26b8231/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" height="50"></a>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdqNnN3cGE4ejN2b2dmYms1Z29kcGg2dWY3OHR2eDRmNzhtYXoyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Tl7sK6IaEQdVcCVD7i/giphy.webp" alt="Coding GIF">
+  <a href="https://www.instagram.com/anademier" target="_blank"><img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b"></a>
+  <a href="https://www.linkedin.com/in/ana-caroline-de-a-egger-demier-aa26b8231/" target="_blank"><img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269"></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
