@@ -1,14 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=8A2BE2&width=435&lines=Howdy!+Let's+collaborate;and+shape+a+better+future!">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Howdy!+I'm+Ana%2C+a+Software+Developer;Welcome+to+my+GitHub+profile+%F0%9F%91%8B%F0%9F%8F%BB;Let%E2%80%99s+collaborate+to+build+a+better+future!%F0%9F%8C%9F">
 </p>
-<p align="center">
-    <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif?raw=true" width="50%">
-</p>
-<br>
 
 ## About Me
-- **I'm Ana, eager to dive into front-end development opportunities.**
+- **I'm excited to explore front-end development opportunities, eager to bring creativity, and a strong desire to learn and contribute to innovative projects while honing my skills**
 - **How to reach me: anaeggerdemier@outlook.com**
 - **Pronouns:** *she/her*
 - **IT Systems Analysis and Development Student**
@@ -55,5 +51,3 @@
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
-
