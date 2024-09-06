@@ -37,11 +37,10 @@
 ## My GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anaeggerdemier&theme=shadow-green&hide_border=true&mode=weekly"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=anaeggerdemier&theme=gotham" />
   </a>
 </p>
-
 
 ## Social Media
 
