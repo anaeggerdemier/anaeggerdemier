@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004d00&height=120&section=header"/>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=CCCCCC&size=35&center=true&vCenter=true&width=1000&lines=Howdy!+I'm+Ana%2C+a+Software+Developer;Welcome+to+my+GitHub+profile+%F0%9F%91%8B%F0%9F%8F%BB;Let%E2%80%99s+collaborate+to+build+a+better+future!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=D484F4&size=35&center=true&vCenter=true&width=1000&lines=Howdy!+I'm+Ana%2C+a+Software+Developer;Welcome+to+my+GitHub+profile+%F0%9F%91%8B%F0%9F%8F%BB;Let%E2%80%99s+collaborate+to+build+a+better+future!" />
 </p>
 
 ## About Me
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=anaeggerdemier&theme=gotham" />
+    <img src="https://streak-stats.demolab.com?user=anaeggerdemier&theme=dark-minimalist" />
   </a>
 </p>
 
