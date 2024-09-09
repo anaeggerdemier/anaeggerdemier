@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D26A&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a885f4&height=120&section=header"/>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=D484F4&size=35&center=true&vCenter=true&width=1000&lines=Howdy!+I'm+Ana%2C+a+Software+Developer;Welcome+to+my+GitHub+profile+%F0%9F%91%8B%F0%9F%8F%BB;Let%E2%80%99s+collaborate+to+build+a+better+future!" />
@@ -37,4 +37,4 @@
   <a href="https://www.linkedin.com/in/ana-caroline-demier-aa26b8231/" target="_blank"><img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269"></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D26A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a885f4&height=120&section=footer"/>
