@@ -22,14 +22,6 @@
    <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
-## My GitHub Activity
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=anaeggerdemier&theme=slateorange" />
-  </a>
-</p>
-
 ## Social Media
 
 <p align="center">
