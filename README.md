@@ -12,19 +12,10 @@
 ## Main Technologies
 
 <p align="center">
-   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-   <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-   <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-   <img alt="HTML" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-   <img alt="CSS" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-   <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-</p>
-
-## Social Media
-
-<p align="center">
-  <a href="https://www.instagram.com/anademier" target="_blank"><img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b"></a>
-  <a href="https://www.linkedin.com/in/ana-caroline-demier-aa26b8231/" target="_blank"><img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269"></a>
+   <img alt="JavaScript" title="JavaScript" width="40" src="https://img.icons8.com/?size=100&id=39853&format=png&color=f9ab50"/>
+   <img alt="TypeScript" title="TypeScript" width="40" src="https://img.icons8.com/?size=100&id=vMqgHSToxrJR&format=png&color=f9ab50"/>
+   <img alt="React" title="React" width="40" src="https://img.icons8.com/?size=100&id=58811&format=png&color=f9ab50"/>
+   <img alt="Node.js" title="Node.js" width="40" src="https://img.icons8.com/?size=100&id=t9oCxEN7McHZ&format=png&color=f9ab50"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d2a5d&height=120&section=footer"/>
