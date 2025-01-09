@@ -4,12 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=ebded4&size=35&center=true&vCenter=true&width=1000&lines=Howdy!+I'm+Ana%2C+a+Software+Developer;Welcome+to+my+GitHub+profile+%F0%9F%91%8B%F0%9F%8F%BB;Let%E2%80%99s+collaborate+to+build+a+better+future!" />
 </p>
 
-## About Me
-- **I’m eager to explore front-end development opportunities, bring creativity, and contribute to innovative projects**
 - **How to reach me: anaeggerdemier@outlook.com**
 - **IT Systems Analysis and Development Student**
-
-## Main Technologies
 
 <p align="center">
    <img alt="JavaScript" title="JavaScript" width="40" src="https://img.icons8.com/?size=100&id=39853&format=png&color=f9ab50"/>
