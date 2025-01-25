@@ -15,10 +15,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/anaeggerdemier">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
     <a href="anaeggerdemier@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" width="30" alt="Email" />
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" width="40" alt="Email" /></a>&nbsp;&nbsp;
+    <a href="https://sites.google.com/view/bravas-in-tech">
+        <img src="https://raw.githubusercontent.com/anaeggerdemier/BRAVAS/5082e75257a4aed9005882818ab8c53d34f5ec92/public/img/BRAVAS%20In%20Tech.svg?token=BGMEDQU676RBJBYC5L7KYILHSVNAM" width="45" alt="BRAVAS In Tech" />
     </a>
+</p>
 </p>
 
 
