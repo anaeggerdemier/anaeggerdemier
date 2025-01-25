@@ -12,4 +12,14 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anaeggerdemier&bg_color=0d1117&color=7ca3f2&line=7ca3f2&point=f5b3cf&area=true&hide_border=true" alt="activity-graph graph" />
 </div>
 
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/anaeggerdemier">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="anaeggerdemier@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" width="30" alt="Email" />
+    </a>
+</p>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ca3f2&height=120&section=footer"/>
