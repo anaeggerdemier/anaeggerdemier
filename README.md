@@ -14,10 +14,9 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/anaeggerdemier">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="43" alt="LinkedIn" /></a>&nbsp;&nbsp;
-    <a href="mailto:anaeggerdemier@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" width="43" alt="Email" /></a>
+    <a href="https://sites.google.com/view/bravas-in-tech">
+        <img src="https://raw.githubusercontent.com/anaeggerdemier/Listify/c3c619837e8bfe9c10a696727206ecdf7278050f/public/BRAVAS_In_Tech.svg" width="120" alt="Logotipo da BRAVAS In Tech" />
+    </a>
 </p>
 
 
