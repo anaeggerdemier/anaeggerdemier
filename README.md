@@ -14,9 +14,9 @@
 
 
 <p align="center">
-    <a href="https://www.bravasintech.com.br/">
-        <img src="https://raw.githubusercontent.com/anaeggerdemier/Listify/c3c619837e8bfe9c10a696727206ecdf7278050f/public/BRAVAS_In_Tech.svg" width="100" alt="Logotipo da BRAVAS In Tech" />
-    </a>
+  <a href="https://www.bravasintech.com.br/">
+    <img src="https://raw.githubusercontent.com/anaeggerdemier/Listify/ff7fe93d1c505d7e2bcaa2f6da1da501ae785778/public/LOGO.svg" width="100" alt="Logotipo da BRAVAS In Tech" />
+  </a>
 </p>
 
 
